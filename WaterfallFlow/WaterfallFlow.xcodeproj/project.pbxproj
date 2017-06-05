@@ -199,7 +199,6 @@
 				TargetAttributes = {
 					82A144161E2CA2230044F126 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = Q9QGXP49FA;
 						ProvisioningStyle = Automatic;
 					};
 					82A1442A1E2CA2230044F126 = {
@@ -423,11 +422,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = Q9QGXP49FA;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = WaterfallFlow/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.nongguanjia.WaterfallFlow;
+				PRODUCT_BUNDLE_IDENTIFIER = com.WaterfallFlow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -437,11 +436,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = Q9QGXP49FA;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = WaterfallFlow/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.nongguanjia.WaterfallFlow;
+				PRODUCT_BUNDLE_IDENTIFIER = com.WaterfallFlow;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -524,6 +523,7 @@
 				82A144411E2CA2230044F126 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		82A144421E2CA2230044F126 /* Build configuration list for PBXNativeTarget "WaterfallFlowTests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +532,7 @@
 				82A144441E2CA2230044F126 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		82A144451E2CA2230044F126 /* Build configuration list for PBXNativeTarget "WaterfallFlowUITests" */ = {
 			isa = XCConfigurationList;
@@ -540,6 +541,7 @@
 				82A144471E2CA2230044F126 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
